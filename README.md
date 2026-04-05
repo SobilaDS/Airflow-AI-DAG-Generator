@@ -2,7 +2,6 @@
 
 > **LangGraph + Devin CLI agent that watches your Snowflake schemas and autonomously generates, validates, and deploys Airflow DAGs — then heals failed ones.**
 
-Built by [Sobila Satheesh](https://www.linkedin.com/in/sobila/) · Senior Data Engineer at Elevance Health
 
 ---
 
@@ -88,11 +87,6 @@ airflow-ai-dag-generator/
 
 ---
 
-## 💡 Real-World Inspiration
-
-At **Elevance Health**, managing **50+ Airflow DAGs** across a **20,000-table Snowflake warehouse** required constant manual attention to schema drift and pipeline failures. This agent automates that operational burden — turning a reactive on-call rotation into a self-managing system.
-
----
 
 ## 🛠️ Tech Stack
 
