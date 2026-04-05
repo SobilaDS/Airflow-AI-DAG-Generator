@@ -7,7 +7,7 @@ LangGraph + Devin CLI agent that:
   - Validates generated DAGs before deploying to the DAGs folder
   - Monitors running DAGs and triggers self-healing actions on failure
 
-Author : Sobila Satheesh
+Author : Sobila S
 Stack  : Python · LangGraph · Devin CLI · Apache Airflow · Snowflake
 """
 
